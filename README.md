@@ -129,3 +129,4 @@ Também aplico **persistência com JPA/Hibernate**, **testes com JUnit**, e vers
 ---
 
 ⭐ Se curtir algum projeto, fique à vontade para abrir uma issue, dar uma estrela ou mandar uma mensagem!
+![Snake animation](https://github.com/vinimiiranda/vinimiiranda/blob/output/github-contribution-grid-snake.svg)
