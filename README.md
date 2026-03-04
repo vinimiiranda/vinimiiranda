@@ -102,15 +102,6 @@ Também aplico **persistência com JPA/Hibernate**, **testes com JUnit**, e vers
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=redical&hide_border=true" />
 </p>
 
----
-
-## 🐍 Snake dos commits (Animação)
-
-<p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📌 Projetos em destaque
 
@@ -129,4 +120,4 @@ Também aplico **persistência com JPA/Hibernate**, **testes com JUnit**, e vers
 ---
 
 ⭐ Se curtir algum projeto, fique à vontade para abrir uma issue, dar uma estrela ou mandar uma mensagem!
-![Snake animation](https://github.com/vinimiiranda/vinimiiranda/blob/output/github-contribution-grid-snake.svg)
+
