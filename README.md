@@ -13,10 +13,10 @@
 
 <!-- Badges de contato + contador de visitas -->
 <p align="center">
-  <a href="SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/vinicius-miranda-melo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vinicius-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:viniciusmmelo03@gmail.com">
     <img src="https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SEU_USUARIO">
