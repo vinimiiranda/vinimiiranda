@@ -1,15 +1,3 @@
-<!-- =======================
-      README PROFILE
-======================== -->
-
-<!-- Header animado -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Vinicius+%F0%9F%91%8B;Desenvolvedor+Back-end+Java;Spring+Boot+%7C+APIs+REST+%7C+Seguran%C3%A7a;Microservi%C3%A7os+%7C+JWT+%7C+Cloud;Construindo+projetos+reais+todos+os+dias+%F0%9F%9A%80" />
-</p>
-
-
----
 
 ## 👨‍💻 Sobre mim
 
@@ -23,8 +11,6 @@ Tenho forte interesse em:
 * 🧱 Arquitetura de microsserviços
 * ☁️ Cloud e deploy (AWS)
 * 🐳 Containerização com Docker
-
-> 💡 Aprendo construindo projetos reais e aplicando boas práticas de mercado.
 
 ---
 
