@@ -60,14 +60,6 @@ Tenho forte interesse em:
 
 ---
 
-## 📌 Projetos em Destaque
-
-* 🔐 **Forum Hub** → API com autenticação JWT, OAuth2 e 2FA
-* 🍔 **Food Microservices API** → arquitetura com microsserviços (Eureka, Gateway, Feign)
-* 🏥 **Voll.med API** → sistema de clínica com CRUD, validações e segurança
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vinicius-miranda-melo
