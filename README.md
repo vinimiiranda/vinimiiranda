@@ -8,17 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Vinicius+%F0%9F%91%8B;Desenvolvedor+Back-end+Java;Spring+Boot+%7C+APIs+REST+%7C+Seguran%C3%A7a;Microservi%C3%A7os+%7C+JWT+%7C+Cloud;Construindo+projetos+reais+todos+os+dias+%F0%9F%9A%80" />
 </p>
 
-<!-- Contato -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-miranda-melo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinicius-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:viniciusmmelo03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vinimiiranda&style=for-the-badge&label=Visitas&color=0e75b6" />
-</p>
 
 ---
 
@@ -85,19 +74,6 @@ Tenho forte interesse em:
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinimiiranda&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimiiranda&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinimiiranda&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📌 Projetos em Destaque
 
 * 🔐 **Forum Hub** → API com autenticação JWT, OAuth2 e 2FA
@@ -109,7 +85,7 @@ Tenho forte interesse em:
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vinicius-miranda-melo
-* 📧 Email: [viniciusmmelo03@gmail.com](mailto:viniciusmmelo03@gmail.com)
+* 📧 Email: [viniciusmmelo03@gmail.com]
 
 ---
 
