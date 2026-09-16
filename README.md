@@ -32,10 +32,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo hoje com suport
 
 | Projeto | O que é | Destaques técnicos |
 |---|---|---|
-| **[Forum Hub](https://github.com/vinimiiranda/Forum)** | API REST de fórum com gestão de tópicos e respostas | JWT + refresh token, 2FA via TOTP, OAuth2 (Google/GitHub), verificação de e-mail, hierarquia de roles |
+| **[Forum Hub](https://github.com/vinimiiranda/Forum)** | API REST de fórum com gestão de tópicos e respostas | JWT + refresh token, 2FA via TOTP, OAuth2 (Google/GitHub), testes de integração com Testcontainers, CI no GitHub Actions |
 | **[Ecommerce Kafka](https://github.com/vinimiiranda/Ecommerce-kafka)** | E-commerce orientado a eventos com Apache Kafka | 6 serviços desacoplados, producers e consumers genéricos, detecção de fraude, consumo por regex |
 | **[Food Microservices API](https://github.com/vinimiiranda/food-microservices-api)** | Plataforma de pedidos e pagamentos em microsserviços | Spring Cloud, Eureka, API Gateway, OpenFeign, load balancing |
-| **[Clínica API](https://github.com/vinimiiranda/API-Voll.med)** | API REST de gestão de clínica médica | CRUD completo, Spring Security + JWT, Flyway, validações de agendamento |
+| **[Clínica Médica API](https://github.com/vinimiiranda/clinica-medica-api)** | API REST de gestão de clínica médica | CRUD completo, Spring Security + JWT, Flyway, validações de agendamento |
 
 ---
 
@@ -60,11 +60,13 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo hoje com suport
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
+**Cloud, DevOps e testes**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" />
 </p>
 
 **Ferramentas**
@@ -80,7 +82,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo hoje com suport
 
 ## 🎯 Em evolução
 
-Aprofundando **containerização com Docker** e **deploy em AWS**, além de testes automatizados com JUnit e Testcontainers.
+Aprofundando **deploy em AWS** e observabilidade de sistemas distribuídos.
 
 ---
 
