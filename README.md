@@ -84,15 +84,6 @@ Aprofundando **containerização com Docker** e **deploy em AWS**, além de test
 
 ---
 
-## 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinimiiranda&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimiiranda&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
-
----
-
 <p align="center">
   📫 Aberto a oportunidades como Desenvolvedor Back-end Júnior — <a href="mailto:viniciusmmelo03@gmail.com">viniciusmmelo03@gmail.com</a>
 </p>
